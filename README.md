@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages
 
+Hi, this is Dave. I'm just starting out learning HTML/CSS. Hope to continue to build these skills, as I have been over the past few weeks.
+
 You can use the [editor on GitHub](https://github.com/dumets01/coursera/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
